@@ -1,6 +1,6 @@
 # Financial Analysis of OPTeam S.A. (2022–2024)
 
-## 📌 Project Overview
+##  Project Overview
 This repository contains a comprehensive financial analysis of **OPTeam S.A.** covering the fiscal years 2022, 2023, and 2024. The project evaluates the company's financial health, focusing on the significant performance shifts observed in the final year of the analysis.
 
 The analysis focuses on:
@@ -8,9 +8,9 @@ The analysis focuses on:
 * **Ratio Analysis:** Liquidity, Profitability, Efficiency, and Solvency.
 * **Benchmarking:** Comparing results against the IT sector median (Division 62).
 
----
 
-## 📉 Executive Summary
+
+##  Executive Summary
 
 The data reveals a **critical downturn** in the company's performance in 2024:
 1.  **Revenue Collapse:** The company recorded a net loss exceeding **10M PLN**.
@@ -18,9 +18,9 @@ The data reveals a **critical downturn** in the company's performance in 2024:
 3.  **Asset Contraction:** Total assets decreased by nearly 27% year-over-year, suggesting a scale-down of operations or asset liquidation.
 4.  **Stability:** Despite the losses, the company maintains safe liquidity levels and adheres to the Golden Balance Sheet Rule.
 
----
 
-## 📊 Data Visualization
+
+##  Data Visualization
 
 ### 1. Balance Sheet Dynamics (Horizontal Analysis)
 The chart below illustrates the significant contraction of the balance sheet in 2024. Both assets and liabilities decreased, reflecting the company's struggle to maintain its scale of operations.
@@ -39,9 +39,9 @@ Despite the crisis, the financing structure remains conservative:
 
 ![Balance Sheet Rules](AnalizaWykres3.png)
 
----
 
-## 🧮 Detailed Analysis Sheets
+
+##  Detailed Analysis Sheets
 
 Below are the full spreadsheets used for calculations and ratio analysis.
 
@@ -61,8 +61,6 @@ An assessment of the capital structure. The share of equity in total liabilities
 
 ![Vertical Analysis Sheet](Analiza2.jpg)
 
----
 
-## 🛠️ Tools Used
-* **Microsoft Excel:** Data processing, financial modeling, and visualization.
-* **Financial Analysis:** Fundamental analysis techniques and ratio interpretation.
+
+
